@@ -11,3 +11,4 @@ To perform style transfer run: `python styleTransfer.py`
 ![](https://github.com/AyushExel/Neural-Style-Transfer/blob/master/outputs/ex5/100.png)
 ![](https://github.com/AyushExel/Neural-Style-Transfer/blob/master/outputs/ex5/1-style.jpg)
 ![](https://github.com/AyushExel/Neural-Style-Transfer/blob/master/outputs/ex6/100.png)
+![](https://github.com/AyushExel/Neural-Style-Transfer/blob/master/outputs/dark-knight/output.png)
