@@ -7,8 +7,10 @@ To run this program on your sample content-style pair, just replace the content 
 To perform style transfer run: `python styleTransfer.py`
 
 # Some Outputs:
+![](https://github.com/AyushExel/Neural-Style-Transfer/blob/master/outputs/Elon/500.png)
 ![](https://github.com/AyushExel/Neural-Style-Transfer/blob/master/outputs/ex4/300.png)
 ![](https://github.com/AyushExel/Neural-Style-Transfer/blob/master/outputs/ex5/100.png)
 ![](https://github.com/AyushExel/Neural-Style-Transfer/blob/master/outputs/ex5/1-style.jpg)
 ![](https://github.com/AyushExel/Neural-Style-Transfer/blob/master/outputs/ex6/100.png)
 ![](https://github.com/AyushExel/Neural-Style-Transfer/blob/master/outputs/dark-knight/output.png)
+
