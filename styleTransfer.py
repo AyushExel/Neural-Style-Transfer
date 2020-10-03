@@ -50,7 +50,7 @@ def imcnvt(image):
     x = image.to("cpu").clone().detach().numpy().squeeze()
     x = x.transpose(1,2,0)
     x = x*np.array((0.5,0.5,0.5)) + np.array((0.5,0.5,0.5))
-    return x
+    return np.clip(x,0,1)
 
 fig, (ax1,ax2) = plt.subplots(1,2)
 
